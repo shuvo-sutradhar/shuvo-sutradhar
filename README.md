@@ -29,3 +29,6 @@ Here are some ideas to get you started:
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
+
+ <a href="https://github.com/shuvo-sutradhar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvo-sutradhar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shuvos's github stats" /></a> | <a href="https://github.com/shuvo-sutradhar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo-sutradhar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
