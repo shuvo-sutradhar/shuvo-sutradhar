@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on github
 - 💬 Ask me about design and development related stuff
 - 😄 Pronouns: He/His
--->
 
 <h3>Things I code with</h3>
 <p>
