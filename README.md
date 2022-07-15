@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about design and development related stuff
 - 😄 Pronouns: He/His
 
-<h3>Contact: <a href="#">shuvosd.dev@gmail.com</a></h3>
+<h3>Contact: <a href="mailto:shuvosd.dev@gmail.com">shuvosd.dev@gmail.com</a></h3>
 
 <h3>Things I code with</h3>
 <p>
